@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel>
+<Hotels>
 	<!-- Error 1: Root element should be Hotels -->
 	<Hotel>
 		<!-- Error 2: Missing Rating attribute -->
@@ -28,4 +28,4 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-</Hotel>
+</Hotels>
