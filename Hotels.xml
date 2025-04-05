@@ -13,7 +13,7 @@
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
-	<Hotel>
+	<Hotel Rating="3.5">
 		<Name>Hyatt Place</Name>
 		<Phone>602-555-1234</Phone>
 		<Address>
