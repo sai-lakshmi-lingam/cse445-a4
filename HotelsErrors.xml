@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
-	<!-- Error 1: Root element should be Hotels -->
-	<Hotel>
-		<!-- Error 2: Missing Rating attribute -->
-		<Name>Westin</Name>
-		<!-- Error 3: Missing one Phone entry -->
-		<Phone>480-968-8885</Phone>
-		<Address>
-			<Number>11</Number>
-			<Street>E 7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<!-- Error 4: Missing closing tag for Address -->
-		</Address>
-	</Hotel>
-	<Hotel>
-		<!-- Error 5: Two Name elements -->
-		<Name>Hyatt Place</Name>
-		<Name>Duplicate Hotel Name</Name>
-		<Phone>602-555-1234</Phone>
-		<Address>
-			<Number>100</Number>
-			<Street>W University Dr</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-</Hotels>
+<?xml version="1.0" encoding="utf-8"?>
+ <Hotel>
+ 	<!-- Error 1: Root element should be Hotels -->
+ 	<Hotel>
+ 		<!-- Error 2: Missing Rating attribute -->
+ 		<Name>Westin</Name>
+ 		<!-- Error 3: Missing one Phone entry -->
+ 		<Phone>480-968-8885</Phone>
+ 		<Address>
+ 			<Number>11</Number>
+ 			<Street>E 7th St</Street>
+ 			<City>Tempe</City>
+ 			<State>AZ</State>
+ 			<Zip>85281</Zip>
+ 			<!-- Error 4: Missing closing tag for Address -->
+ 		</Address>
+ 	</Hotel>
+ 	<Hotel>
+ 		<!-- Error 5: Two Name elements -->
+ 		<Name>Hyatt Place</Name>
+ 		<Name>Duplicate Hotel Name</Name>
+ 		<Phone>602-555-1234</Phone>
+ 		<Address>
+ 			<Number>100</Number>
+ 			<Street>W University Dr</Street>
+ 			<City>Tempe</City>
+ 			<State>AZ</State>
+ 			<Zip>85281</Zip>
+ 		</Address>
+ 	</Hotel>
+ </Hotel>
