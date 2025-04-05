@@ -10,8 +10,8 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.2">
 		<Name>Hyatt Place</Name>
@@ -22,8 +22,8 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.2"> 
 		<Name>Holiday Inn</Name>
@@ -34,8 +34,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85040</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.1">
 		<Name>Radisson Hotel</Name>
@@ -46,8 +46,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.3">
 		<Name>Hilton Garden Inn</Name>
@@ -58,8 +58,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.6">
 		<Name>Marriott</Name>
@@ -70,8 +70,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.1"> 
 		<Name>DoubleTree Suites</Name>
@@ -82,8 +82,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.4"> 
 		<Name>Aloft Phoenix Airport</Name>
@@ -94,8 +94,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.1"> 
 		<Name>SureStay Hotel</Name>
@@ -106,8 +106,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.7"> 
 		<Name>Drury Inn and Suites</Name>
@@ -118,8 +118,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.2">
 		<Name>Crowne Plaza</Name>
@@ -130,8 +130,8 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 	<Hotel Rating="4.4">
 		<Name>Vib Hotel</Name>
@@ -142,7 +142,7 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<NearstAirport>Sky Harbor</NearstAirport>
 	</Hotel>
 </Hotels>
