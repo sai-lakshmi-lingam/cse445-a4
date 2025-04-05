@@ -25,5 +25,42 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Holiday Inn</Name>
+        	<Phone>602-555-6789</Phone>
+        	<Address>
+            		<Number>200</Number>
+            		<Street>S University Dr</Street>
+            		<City>Tempe</City>
+            		<State>AZ</State>
+            		<Zip>85281</Zip>
+            		<NearstAirport>Sky Harbor</NearstAirport>
+        	</Address>
+    	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Hilton Garden Inn</Name>
+        	<Phone>602-555-6789</Phone>
+        	<Address>
+            		<Number>23838</Number>
+            		<Street>E Van Buren St</Street>
+            		<City>Phoenix</City>
+            		<State>AZ</State>
+            		<Zip>85008</Zip>
+            		<NearstAirport>Sky Harbor</NearstAirport>
+        	</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Hilton Garden Inn</Name>
+        	<Phone>(602) 343-0006</Phone>
+        	<Address>
+            		<Number>23838</Number>
+            		<Street>E Van Buren St</Street>
+            		<City>Phoenix</City>
+            		<State>AZ</State>
+            		<Zip>85008</Zip>
+            		<NearstAirport>Sky Harbor</NearstAirport>
+        	</Address>
+	</Hotel>
+	
 	<!-- Add at least 8 more hotels -->
 </Hotels>
