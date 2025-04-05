@@ -13,7 +13,7 @@
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
-	<Hotel>
+	<Hotel Rating="4.2">
 		<Name>Hyatt Place</Name>
 		<Phone>480-804-9544</Phone>
 		<Address>
@@ -134,14 +134,14 @@
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.4">
-		<Name>Aloft Phoenix Airport</Name>
-		<Phone>602-275-6300</Phone>
+		<Name>Vib Hotel</Name>
+		<Phone>480-805-2070</Phone>
 		<Address>
-			<Number>4450</Number>
-			<Street>East Washington</Street>
-			<City>Phoenix</City>
+			<Number>511</Number>
+			<Street>South Farmer Ave</Street>
+			<City>Tempe</City>
 			<State>AZ</State>
-			<Zip>85034</Zip>
+			<Zip>85281</Zip>
 			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
