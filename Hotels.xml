@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
-	<Hotel Rating="4.2">
-		<Name>Westin</Name>
-		<Phone>480-968-8885</Phone>
-		<Phone>800-937-8461</Phone>
-		<Address>
-			<Number>11</Number>
-			<Street>E 7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
-		</Address>
-	</Hotel>
-	<Hotel>
-		<Name>Hyatt Place</Name>
-		<Phone>602-555-1234</Phone>
-		<Address>
-			<Number>100</Number>
-			<Street>W University Dr</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<!-- Add at least 8 more hotels -->
-</Hotels>
+<?xml version="1.0" encoding="utf-8"?>
+ <Hotels>
+ 	<Hotel Rating="4.2">
+ 		<Name>Westin</Name>
+ 		<Phone>480-968-8885</Phone>
+ 		<Phone>800-937-8461</Phone>
+ 		<Address>
+ 			<Number>11</Number>
+ 			<Street>E 7th St</Street>
+ 			<City>Tempe</City>
+ 			<State>AZ</State>
+ 			<Zip>85281</Zip>
+ 			<NearstAirport>Sky Harbor</NearstAirport>
+ 		</Address>
+ 	</Hotel>
+ 	<Hotel>
+ 		<Name>Hyatt Place</Name>
+ 		<Phone>602-555-1234</Phone>
+ 		<Address>
+ 			<Number>100</Number>
+ 			<Street>W University Dr</Street>
+ 			<City>Tempe</City>
+ 			<State>AZ</State>
+ 			<Zip>85281</Zip>
+ 		</Address>
+ 	</Hotel>
+ 	<!-- Add at least 8 more hotels -->
+ </Hotels>
