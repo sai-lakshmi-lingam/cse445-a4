@@ -4,145 +4,133 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.2">
 		<Name>Hyatt Place</Name>
 		<Phone>480-804-9544</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>1413</Number>
 			<Street>W Rio Solado Pkwy</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.2"> 
 		<Name>Holiday Inn</Name>
 		<Phone>877-984-8588</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>3220</Number>
 			<Street>S 48th St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85040</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.1">
 		<Name>Radisson Hotel</Name>
 		<Phone>800-333-3333</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>427</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.3">
 		<Name>Hilton Garden Inn</Name>
 		<Phone>602-306-2323</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>3838</Number>
 			<Street>E Van Buren St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.6">
 		<Name>Marriott</Name>
 		<Phone>602-273-7373</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>1101</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.1"> 
 		<Name>DoubleTree Suites</Name>
 		<Phone>602-225-0500</Phone> 
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>320</Number>
 			<Street>N 44th Street</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.4"> 
 		<Name>Aloft Phoenix Airport</Name>
 		<Phone>602-275-6300</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>4450</Number>
 			<Street>East Washington</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.1"> 
 		<Name>SureStay Hotel</Name>
 		<Phone>602-273-1601</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>3037</Number>
 			<Street>E Van Buren St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85008</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.7"> 
 		<Name>Drury Inn and Suites</Name>
 		<Phone>602-437-8400</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>3333</Number>
 			<Street>E University Dr</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.2">
 		<Name>Crowne Plaza</Name>
 		<Phone>602-273-7778</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>4300</Number>
 			<Street>E Washington St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85034</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.4">
 		<Name>Vib Hotel</Name>
 		<Phone>480-805-2070</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>511</Number>
 			<Street>South Farmer Ave</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 </Hotels>
